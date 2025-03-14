@@ -42,7 +42,7 @@ h1 {
 	color: #ffffff; /* White text */
 	transition: background-color 0.5s;
 }
-
+/* Hover effect for cells */
 .container div:hover {
 	background-color: #434242;
 }
